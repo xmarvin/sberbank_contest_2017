@@ -1,0 +1,6 @@
+train.csv
+test.csv
+__pycache__/
+vendor/
+*.h5
+tmp
